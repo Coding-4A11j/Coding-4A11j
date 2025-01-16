@@ -1,50 +1,122 @@
-<h2 align="left">Hi 👋! My name is Aajad choudhary </h2>
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Aajadchoudhary+A+C;Welcome+to+my+profile😊!&font=JetBrains+Mono)
 
-###
+<!-- 
+  * Simple is better than complex!
+  * Complex is better than complicated
+  * Now is better than never
+  * Readability counts
+  * One is greater than Zero
+-->
 
+[AAMEC]: https://www.aamec.edu.in/
+
+<div align="center"> 
+  <img style="border-radius:25px;border: 1rem solid #AF69EF;" width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
+</div>
+
+<!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
+
+## 🚀 About Me
+- I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
+- I'm a Web Developer in building web applications using modern technologies. 💡
+- I'm always eager to learn and experiment with new tools and technologies. ✨
+
+
+## 👇 Visit My Portfolio
+- [Portfolio]()
+
+
+## ✍ Dev Quotes
+- "Live and learn"
+- "It's not a bug 🐞, it's a feature 🧾"
+- "A myth is a myth until you experience it"
+
+<!--
+## 📅 Daily Routine
+```python
+   while True:
+       Learn()
+       Code()
+   else:
+       Coffee()
+``` -->
+
+<!-- For more Icons, refer these link: 
+  - `https://github.com/inttter/md-badges` 
+  - `https://skillicons.dev`
+  - `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md`
+  - -->
+
+
+## 🛠 Languages and Tools
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 👨‍💻 Projects
+- [Simple Python Music Player](https://github.com/ramprasathmk/Simple-Python-Music-Player)
+- [Automatic Attendance System using Face Recognition](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
+- [Software Personnel Management System](https://github.com/ramprasathmk/Software-Personnel-Management-System)
+- [Keylogger](https://github.com/ramprasathmk/keylogger)
+- [Ride Share](https://github.com/ramprasathmk/Ride-Share)
+- [Microblog App](https://github.com/ramprasathmk/microblog-app)
+- [Poet App](https://github.com/ramprasathmk/poet-app)
+- [Flask GitHub Actions Demo](https://github.com/ramprasathmk/flask-github-actions-demo)
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📱 Deployments
+- [Portfolio](https://ramprasathmk.github.io/Portfolio/)
+- [Poet App](https://poet-app.onrender.com/)
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 📝 Contributions
+- [Employee Management System](https://github.com/tamil368/sid)
 
-###
 
-<br clear="both">
+##  LeetCode Stats
+- [LeetCode Solutions](https://github.com/ramprasathmk/LeetCode)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
 
-###
+
+## 🎲 GitHub Stats
+![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
+
+
+## 🐍 Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
+</picture>
+
+
+## 🤝 Show your support
+ Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) :)
+
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) -->
+
+<!-- ![Waving Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling) -->
+
+
+<!---
+ramprasathmk/ramprasathmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
