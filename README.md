@@ -88,15 +88,15 @@
 - [Employee Management System](https://github.com/tamil368/sid)
 
 
-##  LeetCode Stats
-- [LeetCode Solutions](https://github.com/ramprasathmk/LeetCode)
+##  Unstop Stats
+- [Unstop Solutions](https://unstop.com/u/aajadcho7403)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
+[![Leetcode Stats](https://unstop.com/u/aajadcho7403)
 
 
 ## 🎲 GitHub Stats
-![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
+![Aajad choudhary GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Aajad choudhary GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
 
 ## 🐍 Snake Game
@@ -106,9 +106,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
 </picture>
 
-
-## 🤝 Show your support
- Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) :)
 
 <!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) -->
 
